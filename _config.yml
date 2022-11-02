@@ -19,7 +19,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Leejh's Notepad                          # the main title
+title: Leejh                          # the main title
 
 tagline: 이것 저것 메모용 블로그   # it will display as the sub-title
 
@@ -78,10 +78,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://cdn.jsdelivr.net/gh/leejh95/leejh95.github.io@main
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/rocket.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true

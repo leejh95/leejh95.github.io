@@ -10,3 +10,7 @@ tags: [github pages] ## Only lowercase
 This is the first post.
 
 *update test*
+
+![test image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/sample%20images/sample.png?Web=1)
+
+![test image](/assets/img/rocket.png)
