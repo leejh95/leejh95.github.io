@@ -213,12 +213,14 @@ alert(s);
 인라인 링크를 표현할 때 사용합니다.
 
 ```markdown
-[내 깃헙 블로그가기](https://leejh95.github.io)
+[내 깃헙 블로그가기](https://leejh95.github.io, "My blog")
 ```
 
 > ### Result
 > ---
-> [내 깃헙 블로그가기](https://leejh95.github.io)
+> [내 깃헙 블로그가기](https://leejh95.github.io, "My blog")
+
+
 
 
 ## 참조
