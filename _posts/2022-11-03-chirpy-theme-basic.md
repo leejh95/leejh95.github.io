@@ -1,7 +1,7 @@
 ---
 date: 2022-11-03 14:34:37 +0900
 title: Chirpy 테마의 Text and Typography 정리🔥🔥🔥
-categories: [Notes, Github Pages]
+categories: [Notes, Jekyll]
 tags: [markdown, github, github pages, jekyll, chirpy theme] ## Only lowercase
 math: true
 mermaid: true
