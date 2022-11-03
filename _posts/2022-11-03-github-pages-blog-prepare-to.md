@@ -6,6 +6,7 @@ tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Onl
 ---
 
 1. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - 준비 단계](https://leejh95.github.io/posts/github-pages-blog-prepare-to/)
+2. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-pages-blog-install-ruby-jekyll/)
 
 ## 이야기
 ---
@@ -90,7 +91,7 @@ _(`Markdown`만 지원된다면 다른 에디터도 상관없습니다.)_
 
 ## 다음 글
 ---
-다음글 링크
+[Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-pages-blog-install-ruby-jekyll/)
 
 ## 참조
 ---
