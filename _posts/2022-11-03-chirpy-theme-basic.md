@@ -1,7 +1,7 @@
 ---
 date: 2022-11-03 14:34:37 +0900
 title: Chirpy 테마의 Text and Typography 정리🔥🔥🔥
-categories: [Notes, Github Pages]
+categories: [Notes, Jekyll]
 tags: [markdown, github, github pages, jekyll, chirpy theme] ## Only lowercase
 math: true
 mermaid: true
@@ -78,7 +78,7 @@ To-do List를 표현할 때는 다음과 같이 작성합니다.
 
 ## 각주(Footnote)
 ---
-각주(Footnote)를 사용하면 문서 내에서 참조할 수 있는 주석을 추가할 수 있습니다.
+각주(Footnote)를 사용하면 문서 내에서 참고할 수 있는 주석을 추가할 수 있습니다.
 
 ```markdown
 Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
@@ -94,7 +94,35 @@ Click the hook will locate the footnote[^footnote], and here is another footnote
 > ---
 > Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
 
-## 이미지 사이즈 (Images Size)
+## 이미지 (Image)
+---
+외부 url이 아닌 프로젝트 내부 이미지를 사용할 때는 다음과 같이 작성합니다.
+
+```markdown
+![alt 텍스트](/assets/img/rocket.png)
+```
+
+> #### Result ⬇️
+> ---
+> ![alt 텍스트](/assets/img/rocket.png)
+
+물론 assets/img 폴더에 rocket.png 파일이 있어야 합니다.
+
+### 이미지 캡션 (Image Caption)
+---
+이미지 캡션(Image Caption)을 사용하면 이미지에 설명을 추가할 수 있습니다.
+
+```markdown
+![alt 텍스트](/assets/img/rocket.png)
+_로켓 이미지_
+```
+
+> #### Result ⬇️
+> ---
+> ![alt 텍스트](/assets/img/rocket.png)
+> _로켓 이미지_
+
+### 이미지 사이즈 (Images Size)
 ---
 이미지 사이즈를 지정할 수 있습니다.
 
@@ -210,7 +238,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 ---
 
 ### Console
-
+---
     ```console
     $ env |grep SHELL
     SHELL=/usr/local/bin/bash
@@ -226,7 +254,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 > ```
 
 ### Shell
-
+---
     ```bash
     if [ $? -ne 0 ]; then
         echo "The command was not successful.";
@@ -244,7 +272,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 > ```
 
 ### Specific filename
-
+---
     ```sass
     @import
     "colors/light-typography",
@@ -260,7 +288,25 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 > ```
 > {: file='_sass/jekyll-theme-chirpy.scss'}
 
-## 참조
+## 코드 블럭 라인 번호
+---
+기본적으로 `plaintext`는, `console` 및 `terminal`를 제외한 모든 언어는 줄 번호를 표시합니다. 코드 블록의 줄 번호를 숨기려면 클래스 `nolineno`를 추가하세요.
+
+````markdown
+```shell
+echo 'No more line numbers!'
+```
+{: .nolineno }
+````
+
+> #### Result ⬇️
+> ---
+> ```shell
+> echo 'No more line numbers!'
+> ```
+> {: .nolineno }
+
+## 참고
 ---
 > - <https://chirpy.cotes.page/posts/text-and-typography/#titles>  
 > - <https://github.com/cotes2020/jekyll-theme-chirpy>
