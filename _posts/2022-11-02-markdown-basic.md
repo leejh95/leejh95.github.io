@@ -2,7 +2,7 @@
 date: 2022-11-02 15:43:52 +0900
 title: 마크다운(Markdown) 기본 정리🔥🔥🔥
 categories: [Notes, Markdown]
-tags: [markdown, github] ## Only lowercase
+tags: [markdown, github, github pages] ## Only lowercase
 image:
   path: https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/markdown_logo.jpg?Web=1
   alt: Markdown
@@ -385,7 +385,46 @@ __*이탤릭 + 볼드*__
 > ~~**_이탤릭 + 볼드 + 취소선_**~~  
 > ~~__*이탤릭 + 볼드 + 취소선*__~~
 
+## 표(Table)
+---
+
+### 일반 표
+
+표를 표현할 때 사용합니다. 문자와 `—` 로 표를 만들 수 있습니다.
+
+```markdown
+| Company                      | Contact          | Country |
+|------------------------------|------------------|---------|
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    | UK      |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+```
+
+| Company                      | Contact          | Country |
+|------------------------------|------------------|---------|
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    | UK      |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+
+### 정렬 표
+
+셀의 값을 정렬할 때 사용합니다.
+
+```markdown
+| Company                      | Contact          | Country |
+|:-----------------------------|:-----------------|--------:|
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    | UK      |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+```
+
+| Company                      | Contact          | Country |
+|:-----------------------------|:-----------------|--------:|
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    | UK      |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+
 ## 참조
 ---
-> * <https://www.markdownguide.org/>
-> * <https://gist.github.com/ihoneymon/652be052a0727ad59601#12-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EC%9D%98-%EC%9E%A5-%EB%8B%A8%EC%A0%90>
+> - <https://www.markdownguide.org/>
+> - <https://gist.github.com/ihoneymon/652be052a0727ad59601#12-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EC%9D%98-%EC%9E%A5-%EB%8B%A8%EC%A0%90>
