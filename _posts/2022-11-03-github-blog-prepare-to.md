@@ -5,8 +5,9 @@ categories: [Tutorial, Github Blog]
 tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Only lowercase
 ---
 
-1. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - 준비 단계](https://leejh95.github.io/posts/github-pages-blog-prepare-to/)
-2. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-pages-blog-install-ruby-jekyll/)
+1. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - 준비 단계](https://leejh95.github.io/posts/github-blog-prepare-to/)
+2. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-install-ruby-jekyll/)
+3. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - 테마 고르기](https://leejh95.github.io/posts/github-blog-theme/)
 
 ## 이야기
 ---
@@ -87,13 +88,14 @@ VSCode는 다양한 언어를 지원하는 텍스트 에디터입니다.
 [여기](https://code.visualstudio.com/)에서 VSCode를 설치할 수 있습니다.
 
 _(`Markdown`만 지원된다면 다른 에디터도 상관없습니다.)_
+
 ## 마무리
 ---
 끝입니다!! 이 글을 보고 Github Pages와 Jekyll을 사용해서 블로그를 만들어보고 싶으신 분들은 위에 것들을 준비해서 따라오시면 됩니다.
 
 ## 다음 글
 ---
-[Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-pages-blog-install-ruby-jekyll/)
+[Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-install-ruby-jekyll/)
 
 ## 참조
 ---
