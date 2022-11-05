@@ -6,9 +6,10 @@ tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Onl
 ---
 
 1. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 준비 단계](https://leejh95.github.io/posts/github-blog-prepare-to/)
-2. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-install-ruby-jekyll/)
+2. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-ruby-jekyll/)
 3. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 테마 고르고 적용하기](https://leejh95.github.io/posts/github-blog-theme/)
-4. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포, 커스터마이징](https://leejh95.github.io/posts/github-blog-build-deploy-customize/)
+4. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포](https://leejh95.github.io/posts/github-blog-build-deploy/)
+5. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 커스터마이징](https://leejh95.github.io/posts/github-blog-customizing/)
 
 ## 테마 고르고 적용하기
 ---
@@ -225,11 +226,11 @@ Configuration file: /Users/username/Projects/username.github.io/_config.yml
 
 ## 마무리
 ---
-이제 Jekyll 블로그가 전부 설치되었습니다. 남은건 작업물을 빌드, 배포해주고 자신에게 맞는 설정을 적용해서 포스트를 작성하시면 됩니다. 다음 글에서 배포를 위한 git 동기화와 github actions, 블로그를 커스터마이징하는 방법을 알아보겠습니다.
+이제 Jekyll 블로그가 전부 설치되었습니다. 남은건 작업물을 빌드, 배포해주고 자신에게 맞는 설정을 적용해서 포스트를 작성하시면 됩니다. 다음 글에서 빌드 및 배포를 위한 git 동기화와 github actions를 알아보겠습니다.
 
 ## 다음 글
 ---
-[Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포, 커스터마이징](https://leejh95.github.io/posts/github-blog-build-deploy-customize/)
+[Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포](https://leejh95.github.io/posts/github-blog-build-deploy/)
 
 ## 참고
 ---

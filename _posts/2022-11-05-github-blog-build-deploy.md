@@ -1,14 +1,15 @@
 ---
 date: 2022-11-05 20:56:37 +0900
-title: Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포, 커스터마이징
+title: Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포
 categories: [Tutorial, Github Blog]
 tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Only lowercase
 ---
 
 1. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 준비 단계](https://leejh95.github.io/posts/github-blog-prepare-to/)
-2. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-install-ruby-jekyll/)
+2. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-ruby-jekyll/)
 3. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 테마 고르고 적용하기](https://leejh95.github.io/posts/github-blog-theme/)
-4. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포, 커스터마이징](https://leejh95.github.io/posts/github-blog-build-deploy-customize/)
+4. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포](https://leejh95.github.io/posts/github-blog-build-deploy/)
+5. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 커스터마이징](https://leejh95.github.io/posts/github-blog-customizing/)
 
 ## 빌드 및 배포
 ---
@@ -125,7 +126,7 @@ git add .
 git commit -m "첫 커밋"
 ```
 
-커밋을 할때는 반드시 커밋 메시지를 작성해야 합니다. 대충 무슨 내용인지만 작성해도 됩니다.
+커밋을 할때는 반드시 커밋 메시지를 작성해야 합니다. 처음이니까 일단 아무거나 작성하겠습니다.
 
 > 4. Commit한 변경사항을 Github에 Push한다.
 
@@ -139,14 +140,28 @@ git push
 ---
 VSCode를 사용하면 Git도 매우 간단하게 사용할 수 있습니다. VSCode에서는 Git을 사용하기 위해 `Source Control` 탭을 사용합니다.
 
+![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-05%20%ec%98%a4%ed%9b%84%2011.37.32.png?Web=1)  
+
+`Source Control` 탭을 열고, `+` 버튼을 눌러서 변경사항을 Staging Area에 올립니다. 그리고 입력칸에  Commit 메시지를 작성하고, `Commit` 버튼을 눌러서 커밋을 합니다. 그리고 `Sync` 버튼을 눌러서 Push를 하면 됩니다.
+
+### Github Actions
+---
+푸시가 되었다면 Github Actions가 자동으로 빌드 및 배포를 진행합니다. 무슨일이 벌어지는지 확인해봅시다.
+
+자신의 저장소에서 `Actions` 탭을 열고, `Build and Deploy`를 클릭합니다.  
+![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-05%20%ec%98%a4%ed%9b%84%2011.48.50.png?Web=1)  
+
+이곳에 진행중인 워크플로우가 나타납니다. 각 워크플로우를 클릭해보면 현재 진행중인 작업을 실시간으로 확인할 수 있습니다.
+
+빌드 및 배포가 전부 완료되었다면 한번 본인의 Github Pages를 확인해봅시다. `https://username.github.io`로 접속하면 됩니다. (e.g. <https://leejh95.github.io>)
 
 ## 마무리
 ---
-이제 Jekyll 블로그가 전부 설치되었습니다. 남은건 작업물을 빌드, 배포해주고 설정을 바꿔주고 포스트를 작성하시면 됩니다. 다음 글에서 git 다루기와 github actions, 블로그를 커스터마이징하는 방법을 알아보겠습니다.
+다음 글에서는 블로그를 커스터마이징 해보겠습니다.😀
 
 ## 다음 글
 ---
-다음글 링크  
+[Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 커스터마이징](https://leejh95.github.io/posts/github-blog-customizing/)
 
 ## 참고
 ---
