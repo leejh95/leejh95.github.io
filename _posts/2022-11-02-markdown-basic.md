@@ -235,9 +235,9 @@ term
 > ---
 > [내 깃헙 블로그가기](https://leejh95.github.io, "My blog")
 
-### 참조 링크(Reference Link)
+### 참고 링크(Reference Link)
 
-참조 링크를 표현할 때 사용합니다.
+참고 링크를 표현할 때 사용합니다.
 
 ```markdown
 [내 깃헙 블로그가기][1]
@@ -277,9 +277,9 @@ term
 > ---
 > ![이미지](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1)
 
-### 참조 이미지(Reference Image)
+### 참고 이미지(Reference Image)
 
-참조 이미지를 표현할 때 사용합니다.
+참고 이미지를 표현할 때 사용합니다.
 
 ```markdown
 ![이미지][1]
@@ -424,7 +424,7 @@ __*이탤릭 + 볼드*__
 | Island Trading               | Helen Bennett    | UK      |
 | Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
 
-## 참조
+## 참고
 ---
 > - <https://www.markdownguide.org/>
 > - <https://gist.github.com/ihoneymon/652be052a0727ad59601#12-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EC%9D%98-%EC%9E%A5-%EB%8B%A8%EC%A0%90>

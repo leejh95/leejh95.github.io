@@ -78,7 +78,7 @@ To-do List를 표현할 때는 다음과 같이 작성합니다.
 
 ## 각주(Footnote)
 ---
-각주(Footnote)를 사용하면 문서 내에서 참조할 수 있는 주석을 추가할 수 있습니다.
+각주(Footnote)를 사용하면 문서 내에서 참고할 수 있는 주석을 추가할 수 있습니다.
 
 ```markdown
 Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
@@ -260,7 +260,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 > ```
 > {: file='_sass/jekyll-theme-chirpy.scss'}
 
-## 참조
+## 참고
 ---
 > - <https://chirpy.cotes.page/posts/text-and-typography/#titles>  
 > - <https://github.com/cotes2020/jekyll-theme-chirpy>

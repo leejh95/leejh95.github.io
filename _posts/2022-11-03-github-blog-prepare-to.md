@@ -1,13 +1,14 @@
 ---
 date: 2022-11-03 17:32:40 +0900
-title: Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - 준비 단계
+title: Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 준비 단계
 categories: [Tutorial, Github Blog]
 tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Only lowercase
 ---
 
-1. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - 준비 단계](https://leejh95.github.io/posts/github-blog-prepare-to/)
-2. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-install-ruby-jekyll/)
-3. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - 테마 고르기](https://leejh95.github.io/posts/github-blog-theme/)
+1. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 준비 단계](https://leejh95.github.io/posts/github-blog-prepare-to/)
+2. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-install-ruby-jekyll/)
+3. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 테마 고르고 적용하기](https://leejh95.github.io/posts/github-blog-theme/)
+4. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포, 커스터마이징](https://leejh95.github.io/posts/github-blog-build-deploy-customize/)
 
 ## 이야기
 ---
@@ -28,7 +29,7 @@ Github Pages라는 호스팅 서비스가 있습니다.
 
 일단은 제가 작업한 환경과 사전 준비물을 적어놓겠습니다. 저는 `macOS`에서 작업을 진행했는데요 그래서 `macOS`기준으로 설명하게 되겠지만 아마 `Windows`도 크게 다르지 않을거라 생각됩니다.
 
-다음 작업들은 전부 `2022-11-01` 날짜 기준으로 진행되었습니다.
+다음 작업들은 전부 `2022-11-01` 기준으로 진행되었습니다.
 
 ## 준비물
 ---
@@ -95,9 +96,9 @@ _(`Markdown`만 지원된다면 다른 에디터도 상관없습니다.)_
 
 ## 다음 글
 ---
-[Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀🚀🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-install-ruby-jekyll/)
+[Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - Ruby, Jekyll 설치하기](https://leejh95.github.io/posts/github-blog-install-ruby-jekyll/)
 
-## 참조
+## 참고
 ---
 > - <https://jekyllrb.com/>
 > - <https://www.irgroup.org/posts/jekyll-chirpy/>
