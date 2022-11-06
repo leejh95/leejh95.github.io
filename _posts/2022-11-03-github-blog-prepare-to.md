@@ -27,15 +27,20 @@ Github Pages라는 호스팅 서비스가 있습니다.
 ---
 바로 시작해 보겠습니다. 아무래도 일반적인 블로그 플랫폼과는 다르게 가벼운 느낌으로 짜잔 하고 시작할 수는 없습니다. `Jekyll` 프로젝트를 빌드하고 `Github`로 업로드 및 호스팅 하는 단계를 거쳐야 하기 때문이죠.
 
-아무튼 이곳에 적혀있는 대로 잘 따라오시면 누구나 Github Pages로 블로그를 만들 수 있다고 생각합니다.
+아무튼 이곳에 적혀있는 대로 잘 따라오시면 누구나 Github Pages로 블로그를 만들 수 있다고 생각합니다. (물론 어느정도 사전 지식은 있어야 합니다.)(e.g. macos 터미널 사용법)
 
 일단은 제가 작업한 환경과 사전 준비물을 적어놓겠습니다. 저는 `macOS`에서 작업을 진행했는데요 그래서 `macOS`기준으로 설명하게 되겠지만 아마 `Windows`도 크게 다르지 않을거라 생각됩니다.
 
-다음 작업들은 전부 `2022-11-01` 기준으로 진행되었습니다.
+이번 튜토리얼들은 전부 `2022-11-01` ~ `2022-11-06` 기준으로 진행되었습니다.
 
 ## 준비물
 ---
-### 최신 버전 `macOS`
+- 최신 버전 `macOS`
+- 최신 버전 `Homebrew`
+- Github 계정과 `Git`
+- Visual Studio Code 설치
+
+### 최신 버전 macOS
 ---
 _(또는 `Windows`... 저는 `macOS`에서 작업했습니다.)_
 
@@ -54,7 +59,7 @@ _(또는 `Windows`... 저는 `macOS`에서 작업했습니다.)_
 > _macOS에 Jekyll을 설치하려면 적절한 Ruby 개발 환경이 필요합니다. macOS에는 Ruby가 사전 설치되어 제공되지만 해당 버전을 사용하여 Jekyll을 설치하지 않는 것이 좋습니다. 이 외부 기사에서는 [시스템 Ruby를 사용하지 말아야 하는 다양한 이유](https://www.moncefbelyamani.com/why-you-shouldn-t-use-the-system-ruby-to-install-gems-on-a-mac/)에 대해 설명합니다._
 {: .prompt-warning }
 
-### 최신 버전 `Homebrew`
+### 최신 버전 Homebrew
 ---
 `Homebrew`는 `macOS`에서 패키지 관리를 쉽게 할 수 있도록 도와주는 패키지 관리자입니다. `Homebrew`가 설치되어있지 않다면 [여기](https://brew.sh/index_ko)를 참고하여 설치해주세요.
 
@@ -66,7 +71,7 @@ brew -v
 
 `Homebrew`가 설치되어 있다면 설치된 버전이 출력될 것입니다.
 
-### Github 계정과 `Git`
+### Github 계정과 Git
 ---
 Github 계정... 당연히 있어야겠죠?
 <br>

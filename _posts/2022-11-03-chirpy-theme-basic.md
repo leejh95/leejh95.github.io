@@ -94,7 +94,35 @@ Click the hook will locate the footnote[^footnote], and here is another footnote
 > ---
 > Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
 
-## 이미지 사이즈 (Images Size)
+## 이미지 (Image)
+---
+외부 url이 아닌 프로젝트 내부 이미지를 사용할 때는 다음과 같이 작성합니다.
+
+```markdown
+![alt 텍스트](/assets/img/rocket.png)
+```
+
+> #### Result ⬇️
+> ---
+> ![alt 텍스트](/assets/img/rocket.png)
+
+물론 assets/img 폴더에 rocket.png 파일이 있어야 합니다.
+
+### 이미지 캡션 (Image Caption)
+---
+이미지 캡션(Image Caption)을 사용하면 이미지에 설명을 추가할 수 있습니다.
+
+```markdown
+![alt 텍스트](/assets/img/rocket.png)
+_로켓 이미지_
+```
+
+> #### Result ⬇️
+> ---
+> ![alt 텍스트](/assets/img/rocket.png)
+> _로켓 이미지_
+
+### 이미지 사이즈 (Images Size)
 ---
 이미지 사이즈를 지정할 수 있습니다.
 
@@ -210,7 +238,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 ---
 
 ### Console
-
+---
     ```console
     $ env |grep SHELL
     SHELL=/usr/local/bin/bash
@@ -226,7 +254,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 > ```
 
 ### Shell
-
+---
     ```bash
     if [ $? -ne 0 ]; then
         echo "The command was not successful.";
@@ -244,7 +272,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 > ```
 
 ### Specific filename
-
+---
     ```sass
     @import
     "colors/light-typography",

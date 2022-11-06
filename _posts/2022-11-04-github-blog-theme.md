@@ -59,7 +59,7 @@ _Chirpy Theme_
 <br>
 
 ### Fork 하기
-
+---
 오른쪽에 Fork버튼을 눌러줍니다. 이제 보니 3천번이나 Fork되었네요.  
 ![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%209.33.38.png?Web=1)  
 <br>
@@ -79,7 +79,7 @@ _Chirpy Theme_
 <br>
 
 ### GitHub Pages 설정하기
-
+---
 그리고 이건 해도 안해도 상관없는데 더 진행하기 전에 저는 `master`브랜치를 `main`으로 바꿔줬습니다.  
 `Github`의 기본 브랜치명인 `master`가 노예제를 연상시킨다는 이유로 `main` 으로 변경되었는데요; 이게 바뀐지가 좀 되었거든요... 그래서 저는 `main`이 더 익숙해서 바꿔줬습니다.  
 ![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.08.49.png?Web=1)  
@@ -105,7 +105,7 @@ git clone 복사한주소
 > `git clone`을 하는 방법은 전부 아실거라고 믿겠습니다... 혹시나 모르시는 분들을 위해 추후에 블로그에 올리도록 하겠습니다.
 
 ### VSCode로 작업하기
-
+---
 VSCode를 실행합니다.  
 ![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.23.09.png?Web=1)  
 <br>

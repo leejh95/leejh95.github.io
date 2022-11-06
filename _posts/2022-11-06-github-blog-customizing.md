@@ -18,7 +18,7 @@ tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Onl
 
 ## 프로젝트 구성
 ---
-가장 최상위에있는 파일들이 무엇인지 알아야 합니다. 전부 설명하기에는 너무 길어지니, 간단하게 몇가지만 설명하겠습니다.
+프로젝트를 구성하는 파일들이 무엇인지 알아야 합니다. 전부 설명하기에는 너무 길어지니, 간단하게 몇가지만 설명하겠습니다.
 
 - _data: 사이트에 사용되는 데이터를 저장하는 곳입니다. (e.g. 메뉴, 사이트 정보 등)
 - _includes: 사이트에 사용되는 공통적인 부분을 저장하는 곳입니다. (e.g. 헤더, 푸터 등)
@@ -188,7 +188,7 @@ This is about page.
 
 웹사이트 탭에 보이는 아이콘(favicon)을 바꿔보겠습니다.
 
-> <https://chirpy.cotes.page/posts/customize-the-favicon/>
+> <https://chirpy.cotes.page/posts/customize-the-favicon/>  
 > ⬆️ 이 글을 참고하였습니다.
 
 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/)의 favicon은 `assets/img/favicons/`디렉토리에 있습니다. 자신의 것으로 교체하고 싶을 수도 있습니다. 다음 섹션에서는 기본 파비콘을 만들고 바꾸는 방법을 안내합니다.

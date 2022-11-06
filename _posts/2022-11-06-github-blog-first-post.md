@@ -67,7 +67,7 @@ tags: [tag1, tag2]     # 태그는 항상 소문자여야 합니다.
 
 ### 글쓴이 정보
 ---
-글쓴이 정보는 일반적으로 Front Matter에 입력할 필요가 없으며 기본적으로 `_config.yml` 파일의 `social` 첫 번째 항목과 `name` 변수에서 가져옵니다.
+글쓴이 정보는 일반적으로 Front Matter에 입력할 필요가 없으며 기본적으로 `_config.yml` 파일의 `social` 첫 번째 항목 `name`에서 가져옵니다.
 
 ### 목차(Table of Contents, TOC)
 ---
