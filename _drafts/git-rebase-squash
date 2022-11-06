@@ -1,0 +1,1 @@
+git에서 rebase를 사용해서 squash 하는 방법
