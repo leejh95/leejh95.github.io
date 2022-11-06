@@ -115,7 +115,7 @@ jobs:
 
 > - 변경사항을 Staging Area에 올린다.
 
-```zsh
+```terminal
 git add .
 ```
 
@@ -123,7 +123,7 @@ git add .
 
 > - Staging Area에 올린 변경사항을 Commit한다.
 
-```zsh
+```terminal
 git commit -m "첫 커밋"
 ```
 
@@ -131,7 +131,7 @@ git commit -m "첫 커밋"
 
 > - Commit한 변경사항을 Github에 Push한다.
 
-```zsh
+```terminal
 git push
 ```
 

@@ -260,6 +260,24 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 > ```
 > {: file='_sass/jekyll-theme-chirpy.scss'}
 
+## 코드 블럭 라인 번호
+---
+기본적으로 `plaintext`는, `console` 및 `terminal`를 제외한 모든 언어는 줄 번호를 표시합니다. 코드 블록의 줄 번호를 숨기려면 클래스 `nolineno`를 추가하세요.
+
+````markdown
+```shell
+echo 'No more line numbers!'
+```
+{: .nolineno }
+````
+
+> #### Result ⬇️
+> ---
+> ```shell
+> echo 'No more line numbers!'
+> ```
+> {: .nolineno }
+
 ## 참고
 ---
 > - <https://chirpy.cotes.page/posts/text-and-typography/#titles>  
