@@ -10,6 +10,7 @@ tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Onl
 3. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 테마 고르고 적용하기](https://leejh95.github.io/posts/github-blog-theme/)
 4. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포](https://leejh95.github.io/posts/github-blog-build-deploy/)
 5. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 커스터마이징](https://leejh95.github.io/posts/github-blog-customizing/)
+6. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 첫 포스팅하기](https://leejh95.github.io/posts/github-blog-first-post/)
 
 ## 테마 고르고 적용하기
 ---
@@ -206,7 +207,7 @@ bundle exec jekyll serve
 {: .prompt-warning}  
 
 > 소스 파일을 변경할 때마다 페이지를 자동으로 새로 고치는 --livereload 옵션을 적용할 수 있습니다. `bundle exec jekyll serve --livereload`
-{: .prompt-info}  
+{: .prompt-tip}  
 
 다음과 같이 실행되면 성공입니다.
 

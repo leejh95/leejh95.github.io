@@ -10,6 +10,7 @@ tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Onl
 3. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 테마 고르고 적용하기](https://leejh95.github.io/posts/github-blog-theme/)
 4. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 빌드 및 배포](https://leejh95.github.io/posts/github-blog-build-deploy/)
 5. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 커스터마이징](https://leejh95.github.io/posts/github-blog-customizing/)
+6. [Github Pages와 Jekyll을 사용해서 나만의 블로그 만들어보기🚀 - 첫 포스팅하기](https://leejh95.github.io/posts/github-blog-first-post/)
 
 ## `macOS`에서 `Ruby` 설치는 어렵다?
 ---
@@ -111,10 +112,12 @@ Homebrew가 준비되어있는지는 아래와 같이 확인할 수 있습니다
 > 7. 터미널 정보 창 닫기
 > 8. 터미널 실행
 > 9. `uname -m` 실행. `arm64` 출력. 이제 가이드의 나머지 부분을 계속 진행할 수 있습니다.
+{: .prompt-info}
 
 \*\* 쉘에 대한 참고 사항 \*\*
 
 > 이 튜토리얼에서는 `zsh`을 사용합니다. 자신의 쉘이 확실하지 않은 경우 [어떤 쉘을 사용하고 있습니까? 어떻게 전환할 수 있습니까?](https://www.moncefbelyamani.com/which-shell-am-i-using-how-can-i-switch/) 이 가이드를 참고해주세요.
+{: .prompt-info}
 
 ### `ruby-install`을 사용하여 `chruby` 및 최신 `Ruby` 설치하기.
 
@@ -186,15 +189,15 @@ gem install 패키지명1 패키지명2 ...
 ```
 
 > `gem` 명령어는 `sudo`를 사용하지 않아도 됩니다. `sudo`를 사용하면 `gem`을 설치할 수 없습니다.
-{: .prompt-warning }
+{: .prompt-tip }
 
-이제 `bundler`와 `jekyll`을 설치해봅시다.
+이제 `bundler`[^bundler]와 `jekyll`을 설치해봅시다.
+
+[^bundler]: `bundler`는 Gemfile에 정의된 젬(Gem)들의 의존성을 파악해서 올바른 젬(Gem)을 사용할 수 있게끔 해주는 명령어입니다.
+
 ```zsh
 gem install bundler jekyll
 ```
-
-> Bundler는 Gemfile에 정의된 젬(Gem)들의 의존성을 파악해서 올바른 젬(Gem)을 사용할 수 있게끔 해주는 명령어입니다.
-{: .prompt-info }
 
 ## 마무리
 ---
