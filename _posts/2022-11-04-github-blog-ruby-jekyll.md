@@ -168,6 +168,7 @@ echo "chruby ruby-3.1.2" >> ~/.zshrc
 > 114 source /opt/homebrew/opt/chruby/share/chruby/auto.sh
 > 115 chruby ruby-3.1.2
 > ```
+> {: .nolineno }
 {: .prompt-warning }
 
 터미널을 종료하고 다시 시작한 다음 아래 명령어가 작동하는지 확인해주세요.

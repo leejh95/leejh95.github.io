@@ -16,8 +16,9 @@ tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Onl
 ---
 Github Pages라는 호스팅 서비스가 있습니다.
 
-> [Github Pages](https://pages.github.com/)
-> _당신과 당신의 프로젝트를 위한 웹사이트. GitHub 저장소 에서 직접 호스팅됩니다. 수정하고 푸시하면 변경 사항이 적용됩니다._
+![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-07%20%ec%98%a4%ec%a0%84%2010.50.06.png?Web=1)
+
+> [Github Pages](https://pages.github.com/) _당신과 당신의 프로젝트를 위한 웹사이트. GitHub 저장소 에서 직접 호스팅됩니다. 수정하고 푸시하면 변경 사항이 적용됩니다._
 
 당연히 `Github`에서 제공하고 있습니다. `Github` 저장소에 정적 웹 작업물을 푸시 하면 자동으로 호스팅을 해주는 서비스인데요 그냥 단순히 저장소에 올리기만 하면 나머지는 설정은 거의 자동이니까 정말 좋죠, 심지어 무료입니다! 물론 일정 조건 안에서만 무료예요... (e.g. 업로드한 파일들의 용량이 1기가 이하)
 

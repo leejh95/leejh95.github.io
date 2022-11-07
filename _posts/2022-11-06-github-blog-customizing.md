@@ -68,26 +68,26 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: 코드             # 구글 웹마스터 도구에 등록한 사이트의 코드
+google_site_verification: 코드             # 구글 웹마스터 도구에 등록한 사이트의 코드 (일단 비워놓기)
 
 google_analytics:
-  id: G-XXXXXXXXXXX                       # 구글 애널리틱스에 등록한 사이트의 코드
+  id: G-XXXXXXXXXXX                       # 구글 애널리틱스에 등록한 사이트의 코드 (일단 비워놓기)
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 theme_mode:                               # [light|dark] 테마 모드를 정할 수 있음 비워두면 시스템 설정에 따라 결정됨
 
-img_cdn: https://cdn.jsdelivr.net/gh/leejh95/leejh95.github.io@main # 이미지 CDN 주소
+img_cdn: https://cdn.jsdelivr.net/gh/leejh95/leejh95.github.io@main # 이미지 CDN 주소 (일단 비워놓기)
 
 avatar: /assets/img/rocket.png            # 프로필 사진
 
 toc: true                                 # 목차를 사용할지 여부
 
 comments:                                 # 댓글 기능 관련 설정
-  active: disqus                          # 댓글을 사용할지 여부 (disqus를 사용하고 싶으면 disqus 입력)
+  active: disqus                          # 댓글을 사용할지 여부 (disqus를 사용하고 싶으면 disqus 입력) (일단 비워놓기)
   disqus:
-    shortname: 숏네임                       # disqus에 등록한 사이트의 숏네임
+    shortname: 숏네임                       # disqus에 등록한 사이트의 숏네임 (일단 비워놓기)
   utterances:
     repo:         # <gh-username>/<repo>
     issue_term:   # < url | pathname | title | ...>
