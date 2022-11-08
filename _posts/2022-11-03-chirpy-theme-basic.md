@@ -8,6 +8,7 @@ mermaid: true
 image:
   path: https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/devices-mockup.png?Web=1
   alt: Responsive rendering of Chirpy theme on multiple devices.
+render_with_liquid: false
 ---
 
 ## 시작
@@ -290,7 +291,7 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 
 ## 코드 블럭 라인 번호
 ---
-기본적으로 `plaintext`는, `console` 및 `terminal`를 제외한 모든 언어는 줄 번호를 표시합니다. 코드 블록의 줄 번호를 숨기려면 클래스 `nolineno`를 추가하세요.
+기본적으로 `plaintext`, `console` 및 `terminal`를 제외한 모든 언어는 줄 번호를 표시합니다. 코드 블록의 줄 번호를 숨기려면 클래스 `nolineno`를 추가하세요.
 
 ````markdown
 ```shell
@@ -305,6 +306,32 @@ echo 'No more line numbers!'
 > echo 'No more line numbers!'
 > ```
 > {: .nolineno }
+
+## Liquid 코드
+---
+Jekyll은 [Liquid](https://shopify.github.io/liquid/)라는 템플릿 언어를 사용해서 템플릿을 처리합니다.
+
+그래서 포스트에 `Liquid` 코드를 표시하려고 해도 자동으로 처리되어서 표시할 수가 없는데요, 이럴 때는 `Liquid` 언어 앞과 뒤에 `{% raw %}` 와 `{% endraw %}`를 붙여서 표현하면 됩니다.
+
+````markdown
+{% raw %}
+```liquid
+{% if product.title contains 'Pack' %}
+  This product's title contains the word Pack.
+{% endif %}
+```
+{% endraw %}
+````
+
+> #### Result ⬇️
+> ---
+> ```liquid
+> {% if product.title contains 'Pack' %}
+>   This product's title contains the word Pack.
+> {% endif %}
+> ```
+
+또는 게시물의 `Front Matter` 블록에 `render_with_liquid: false` 항목을 추가하면 됩니다. (Jekyll 4.0 이상 필요)
 
 ## 참고
 ---
