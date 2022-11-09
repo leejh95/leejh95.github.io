@@ -161,6 +161,9 @@ tags: [tag1, tag2]     # 태그는 항상 소문자여야 합니다.
 ![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-06%20%ec%98%a4%ed%9b%84%207.31.19.png?Web=1)
 _첫 포스트!_
 
+> VSCode의 여러 기능으로 더욱 편하게 작성할 수도 있습니다! 기회가 된다면 추후에 포스팅하겠습니다.
+{: .prompt-tip}
+
 ## 마무리
 ---
 Github Pages와 Jekyll로 블로그 만들기 튜토리얼 끝!!😄😄  
