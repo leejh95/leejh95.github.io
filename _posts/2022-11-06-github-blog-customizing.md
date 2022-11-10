@@ -164,7 +164,7 @@ paginate: 10
 저는 트위터를 사용하지 않아서 트위터 아이콘을 지워주겠습니다.
 
 `_includes/sidebar.html`파일을 열어서 아래 부분을 수정해 줍니다.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-06%20%ec%98%a4%ed%9b%84%203.59.43.png?Web=1)
+![image](https://dsm01pap003files.storage.live.com/y4m-YjgFnbTacRxNNOBYgjxMaTDoOzTEcGmgKqKEea_uWUQktyGZa-UA7SYGNjGHZNcZOAD1mHHyIICsG9dvib0Okjh5JKYOkuiINrzSLkvui6uV0IKWCQqugr2LG0fjqxfTECEB2NLRc2Fp9ymjX3cE1uA5NvG84KAo419xI0F27eOf48aXbpTeJ-ATN86m_j8?width=1452&height=1016&cropmode=none)
 
 ### Footer 변경
 ---
@@ -188,7 +188,7 @@ This is about page.
 
 ### favicon 변경
 ---
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-06%20%ec%98%a4%ed%9b%84%204.13.27.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mZ4rQ7WspXe_QGGBEb6nvFrIvaFRtRCSWkDrueA5EQyNybIjJElGXxD3TBkaXKpehBrXSTZUNNwu6jH8bb0ob93aAJoqolBmXBj9VdZwzv5FMBbcOGKf7x-U3yp_sXGdXQG1m6DANlQsCGYUhjvqJeg28KhnZhYLbEePRyvKTIMH06FZeD9dTUdhcGt7DJskk?width=522&height=504&cropmode=none)  
 
 웹사이트 탭에 보이는 아이콘(favicon)을 바꿔보겠습니다.
 

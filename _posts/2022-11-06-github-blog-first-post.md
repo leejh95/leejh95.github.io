@@ -27,7 +27,7 @@ tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Onl
 - 날짜를 제외한 파일이름은 영어로 작성하고, 공백은 `-`로 대체합니다.
 - 마크다운 파일은 `.md` 혹은 `.markdown` 확장자를 사용합니다.
 
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-06%20%ec%98%a4%ed%9b%84%205.40.58.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mzMoXOb3y9-Lv9WC-6vCfbVtBBuVHd1A1Zr8P1ZO4RxllKa-ravzhAb4tBl9uktnkKqvIUGRuzlltialWlIM9-YQscvEJvSP8lsjbrahqn7zjZ8pZQ9fmQP9ND1lvvnzK6GFghQ32--UKyey8XwRC1kFKa4rtEeZxqfs-uGIGwVzblz1eyjFhd0_A0KsTB1Cl?width=852&height=594&cropmode=none)  
 
 > 날짜를 제외한 파일 이름을 작성할때는 되도록 영어로만 작성하는 것이 좋은 것 같습니다. (숫자x) 제 테마 저장소의 이슈를 둘러보니 관련 이슈가 좀 있는 것 같더군요. 이 부분은 확실하진 않습니다.🤔
 
@@ -158,7 +158,7 @@ tags: [tag1, tag2]     # 태그는 항상 소문자여야 합니다.
 
 이제 내용을 작성했으니 저장 후, 변경사항을 푸시하고 확인 하면됩니다.
 
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-06%20%ec%98%a4%ed%9b%84%207.31.19.png?Web=1)
+![image](https://dsm01pap003files.storage.live.com/y4moEN3Ub3dqC4GZBp2e-pzRGEH8JgduSQa5szQ8J9pUJ14bGnfwMvyALbfZeXgXpBd2Bw75oCe0bKJ9j0ZeO8DRa4AL6iPyZ3WzzfL8SdB23G6lIQ2Ch5F5Yz0ibowA25_guIrgi12TFbmZjROMUR8-HFTu_kao-oLyHVpBZzytZsaZSBvnFupPplxyj2G2yxG?width=2358&height=1490&cropmode=none)
 _첫 포스트!_
 
 > VSCode의 여러 기능으로 더욱 편하게 작성할 수도 있습니다! 기회가 된다면 추후에 포스팅하겠습니다.

@@ -26,7 +26,7 @@ Jekyll에는 많은 웹 사이트 테마들이 있습니다. 그 중에서 마�
 
 여기저기 구글링을 하며 둘러보면서 결국 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 라는 테마를 골랐습니다.([데모](https://chirpy.cotes.page/))
 
-![Chirpy](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/devices-mockup.png?Web=1)
+![Chirpy](https://dsm01pap003files.storage.live.com/y4mVSSQrlm7vHxrb3SmE5lIZa8AZRxZWq0dGQ8SV-UAxbEA_qyAqsZh90fbTk3IQQGC6keNCpQ6uM0DXypNBATJyfaHeYtyjbEbXVjHXr4BAkERXCN5RAqoGzP1ag8FrphVYez9XS1Wh6y1uMqODPEMZ4WsD6eQwvgRDjxmcix2DTGSk5yDGPdo9GajGdy6auSs?width=1792&height=1120&cropmode=none)
 _Chirpy Theme_
 
 꽤 인기있는 블로그 테마였고 지원하는 기능도 아주 좋더군요. 게다가 MIT 라이센스로 배포되고 있어서 누구나 무료로 사용할 수 있다고 합니다.
@@ -61,16 +61,16 @@ _Chirpy Theme_
 ### Fork 하기
 ---
 오른쪽에 Fork버튼을 눌러줍니다. 이제 보니 3천번이나 Fork되었네요.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%209.33.38.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4myJD-M34ZjiUm7iKsUJ-3XeWu6Qm2RYHOu2GyqREHZWTY2AQMdBB8xNKv9LoRKIZXBGwkFPdtMgKf8s2KDEXKRE0FpL2v09WNuUUlxk_HohhTSlyWFAO2T8We5T7fPGE4G8bdaD8mJ3ZuorZfRMNQFtCH8FYmktW6V7WKor4Yek_uY4v9BWjNniKzczXnfrhI?width=2502&height=610&cropmode=none)  
 <br>
 
 **여기가 중요합니다.** Repository name을 `<GH_USERNAME>.github.io` 이 형식으로 바꿔줍니다. 여기서 `GH_USERNAME`은 GitHub 유저네임을 나타냅니다.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%209.36.20.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mb448VhQT_LUULw2RvKasn5RvFKEzJiODebQr3sT_eHz5OGZ7M0mHAZJ8wmDq1wU6LO3A3QPnU4IfqBotUQZmQf_SfAK4N1cl1ZKNigK-oGskYlHyXzETKi9Oleq520e9uKDJqu7ZevJ3_ofhw0dqTqmjAOZ4D6DUTmekB5GiEk6Uf_g8s6r76RUjF9ro2vYT?width=1544&height=1115&cropmode=none)  
 이름을 저렇게 짓는 이유는 저희는 Github Pages를 사용할 것이기 때문입니다. Github Pages는 `<GH_USERNAME>.github.io` 형식의 저장소를 만들면 자동으로 호스팅 서비스를 만들어줍니다. 유저네임으로 지어야 하기 때문에 계정당 한개씩만 가능하죠.  
 <br>
 
 이제 저장소가 생성되었습니다. (저는 이미 만들어져 있었습니다.🙂)  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.07.06.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mAE7U59DIkqAbqh7hMVv4AfrEbhn19WAQROrBCxdjBLNEpyTZcav5Py09WblPHWxh1bx7aDlFyGEs3nW6qrKnD3ai5VCxuATLvjNk8Y776Hbexrfm-kMURt6vIFADeLPc0l67J0HvxrXZn8UIDtII8qX6tSkbcKJa6X7Sv2WCsnzRuS2iEFQfK85AP5C-gWef?width=2018&height=1232&cropmode=none)  
 <br>
 
 이렇게 fork를 하게되면 좋은점은 나중에 원본 저장소 에서 업데이트가 이루어지면 제가 복사해온 저장소에 동기화 작업을 할 수 있다는 것입니다! git을 통해서 릴리즈된 업데이트를 간단하게 적용할 수 있는거죠.
@@ -82,18 +82,18 @@ _Chirpy Theme_
 ---
 그리고 이건 해도 안해도 상관없는데 더 진행하기 전에 저는 `master`브랜치를 `main`으로 바꿔줬습니다.  
 `Github`의 기본 브랜치명인 `master`가 노예제를 연상시킨다는 이유로 `main` 으로 변경되었는데요; 이게 바뀐지가 좀 되었거든요... 그래서 저는 `main`이 더 익숙해서 바꿔줬습니다.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.08.49.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mVp_oK_9FJeLwlkWY5VWpd8wDPTNL7ZYmkmjT_8nnezv6ucpAmqKvri7WaH8siadYd3PwSmjJ1y8jW2Y6kS8YAvK_tAQuDC_rJI0WC1g8CipV-5M4Jb4PoYHp3qyN7Fu_o2a1racFs7OK7DYv9pcc1Xfc1dDTtJGlaJyu0GRHAk1P8u62d2COjknDnNuzmYPA?width=2364&height=860&cropmode=none)  
 <br>
 
 Settings에서 Pages를 들어가면 Github Pages에 대한 설정을 할 수 있습니다. 활성화된 상태도 볼 수 있고, 브랜치를 바꿀 수도 있습니다. 만약 현재 브랜치가 `main`이 아니라면 `main`으로 바꿔줍니다.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.11.39.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4ml55H9XT0jSBR440PotulHqlniHW3is2Z5qwnTVLwQ5TCxgwDvN0jkQHkdjGxh5VC5Nvwfpe9ptHrxEm-JHEYANrZxYoXWjCQL7fO5_WYZ2WLyVD4dBeobTnRukaLKP7GAnT_ShaxjZV-6245iGae2k8kyfV49-ejNBX_jtrXK2eSgWWP9fUWgtb7WzutZSg8?width=1678&height=1168&cropmode=none)  
 
 ## 로컬에서 작업하기
 ---
 아직 끝이 아닙니다. 이제 받은 프로젝트 내부를 깔끔하게 정리 해줘야 하는데요. 웹에서 할 수도 있겠지만 저는 VSCode로 로컬에서 작업을 진행하겠습니다.
 
 다음과 같이 표시된 버튼을 누르면 저장소 주소를 복사할 수 있습니다.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.17.09.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mae4YvYWt-qgk67Frf6zDqyGEbXRULZpR7hdnzPfTPhr-5PAGqxCYknAgRrNR15eLXUY4gVkJnXIsHhWvc2LNqaoCJmH4b1GB6ID9N_BAEtVgCxGxOYtco1GlHsg4kK2fp4ZL7ghPXvAU3vo0110PBLG1FBG-YnTbVfVdQ88q5Q9WsACcnbB8UwxZTsVn1yqy?width=1964&height=900&cropmode=none)  
 <br>
 
 터미널로 원하는 작업 폴더에 들어가서 `git clone`을 통해 저장소를 복사해줍니다.
@@ -107,7 +107,7 @@ git clone 복사한주소
 ### VSCode로 작업하기
 ---
 VSCode를 실행합니다.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.23.09.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mUhJlCMTnghlJsr7qPnUwEivEnQRoB9pE-Kxsjf2rMngmR2BkYJOt-0qbHJUJa3VPAwSjTFiZ8zqqJmNJVq5zOPwThLy6dnQVWXdE_3HfJqEsy2dI2uz-42xjDCtgrdP492j9jtkMyUFpdI8x0C4mh9RfCUoVxJqZkVpYQ_Ga0Yiq8UMB17i6D6IGVEviAR6E?width=2364&height=1564&cropmode=none)  
 <br>
 
 > VSCode에는 작업을 더 편하게 할 수 있는 여러가지 기능과 정말 다양한 확장 플러그인이 있습니다. 여기서는 일단 기본적인 것만 설명하겠습니다. 기회가 된다면 추후에 확장 플러그인에 대해서도 설명하도록 하겠습니다.  
@@ -115,13 +115,13 @@ VSCode를 실행합니다.
 <br>
 
 `Open Folder`를 눌러서 저장소를 열어줍니다.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.24.33.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mPw_hlGufLYT5MRmYvvGMeVFYZJrymdK4oPBtMkOZkykEHzVlp5pqrvBly235v8-vcEZeIQGdIgh7aDBJyvBv02pyVY0n7MY36IeEEpR0X2CRLLnLhWQ-Bo4wwzykiuT1i9OFrFryzMTzKVfaX28jRpUtnCWmGmTZFRwucNHY2GFJr800zvdHVcJ-rmt9L5NN?width=1280&height=1044&cropmode=none)  
 
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.26.57.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mhMUP0E3OZHnGmQgRQ3hOz7-Dc3bCxViDuwju1w1rfU3Ugnu7_xUtULpRkJfpOTrNcqiSDknPvAaSg-fYouArV7EQP1NxBqydxoB8rb1RkQ4pg2xzN2hsL5OJmx6OmALgIwwqBu3ZWAN7vHS-ZWR9BeEs5M4Uv4EWWdpePvdKQoLFkKfuqce_9GCvHr53OyvS?width=2618&height=1736&cropmode=none)  
 <br>
 
 터미널 프로그램으로 작업 폴더를 열거나, 아니면 VSCode에서 터미널을 열어도 상관없습니다.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-04%20%ec%98%a4%ed%9b%84%2010.29.18.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4muOK_s_l2K4wAPA84ilpA2K-B1Fm9R73_H7myjvkmkZAKugxDLJ7hZqHx29o1g6L_-TzHGQjh4nyBe7Hr9BR5cREotj4PH6L0Q5-5kQRcmLpiluVh--hk2xOscI8OXXQae9YHtNs5_JG4x06sU4EBNutVFnN22XKUf3P8kq_t3CEqr74ERT36URxFv3yfv0NR?width=2444&height=1648&cropmode=none)  
 <br>
 
 이제 작업 폴더를 초기화해줘야 합니다만, 이 부분은 테마 마다 구성이 조금씩 다르기 때문에 제가 설명드릴 수 있는 부분은 아니네요. 각 테마가 설명해주는 지침을 따라야 할 것 같습니다. 아마 `README.md`파일에 자세히 적혀있을 겁니다.

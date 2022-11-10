@@ -141,7 +141,7 @@ git push
 ---
 VSCode를 사용하면 Git도 매우 간단하게 사용할 수 있습니다. VSCode에서는 Git을 사용하기 위해 `Source Control` 탭을 사용합니다.
 
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-05%20%ec%98%a4%ed%9b%84%2011.37.32.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mr8dML3eBl0VVsYUGPpsxcsmrMAGL1xFsG6OKg4kf5NH6jKIrzdENPJeb9QVuSYwNK-2XRpGE6NjoYnSdRq_I0sXVTj6mGe-rQVefg0fY42VV5e2ZKa0_cxq-4Wypp4jbScnvvPjrp67rWo2Yt_qsg6GzmcOLMY83OtZ3vm4PNTwudYugD4R4KEUOLe-q_RN-?width=1400&height=918&cropmode=none)  
 
 `Source Control` 탭을 열고, `+` 버튼을 눌러서 변경사항을 Staging Area에 올립니다. 그리고 입력칸에  Commit 메시지를 작성하고, `Commit` 버튼을 눌러서 커밋을 합니다. 그리고 `Sync` 버튼을 눌러서 Push를 하면 됩니다.
 
@@ -150,7 +150,7 @@ VSCode를 사용하면 Git도 매우 간단하게 사용할 수 있습니다. VS
 푸시가 되었다면 Github Actions가 자동으로 빌드 및 배포를 진행합니다. 무슨일이 벌어지는지 확인해봅시다.
 
 자신의 저장소에서 `Actions` 탭을 열고, `Build and Deploy`를 클릭합니다.  
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-05%20%ec%98%a4%ed%9b%84%2011.48.50.png?Web=1)  
+![image](https://dsm01pap003files.storage.live.com/y4mAv9eMofZpqBFBU5c47jS4d0hICw4ktNY8tZvSOujtKB9F8qO2pi2EL22GSkXnEG6TtsDUuYenrgtOzbmmS3NVSfLx-jPbFhRm_jNknceolfjb3ubmEzqmRpE9CAhvaqp_QmV8OXx5BroalZaU9mIfDF-eFQca2bA-DaenUG9dbqEhhq9kelUx_Uuhoc4PxAQ?width=2344&height=1256&cropmode=none)  
 
 이곳에 진행중인 워크플로우가 나타납니다. 각 워크플로우를 클릭해보면 현재 진행중인 작업을 실시간으로 확인할 수 있습니다.
 

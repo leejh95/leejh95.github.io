@@ -4,7 +4,7 @@ title: 마크다운(Markdown) 기본 정리🔥🔥🔥
 categories: [Notes, Markdown]
 tags: [markdown, github, github pages] ## Only lowercase
 image:
-  path: https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/markdown_logo.jpg?Web=1
+  path: https://dsm01pap003files.storage.live.com/y4mkToFMPIT9rDYHimZ1054QbO2ckLFv09hpANQQA61aRMo-zZHD8RC-yD3ATCyoKEY_x8OxMCKIYihApXHPNw0SNNnh0ofk3IUZshDNDFbr_oDZzfrgz_o2IA195USc04SGhXL-R7t72z2Jkw_jdhmlGLX0i9CbIPnw8fdTxBprs4XN13U0VLDJRDJDoICSrMF?width=1280&height=720&cropmode=none
   alt: Markdown
 ---
 
@@ -270,12 +270,12 @@ term
 인라인 이미지를 표현할 때 사용합니다.
 
 ```markdown
-![이미지](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1)
+![이미지](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none)
 ```
 
 > #### Result ⬇️
 > ---
-> ![이미지](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1)
+> ![이미지](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none)
 
 ### 참고 이미지(Reference Image)
 
@@ -284,38 +284,38 @@ term
 ```markdown
 ![이미지][1]
 
-[1]: https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1
+[1]: https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none
 ```
 
 > #### Result ⬇️
 > ---
 > ![이미지][1]
 
-[1]: https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1
+[1]: https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none
 
 ### 이미지 링크(Image Link)
 
 이미지 링크를 표현할 때 사용합니다.
 
 ```markdown
-[![이미지](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1)](https://leejh95.github.io)
+[![이미지](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none)](https://leejh95.github.io)
 ```
 
 > #### Result ⬇️
 > ---
-> [![이미지](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1)](https://leejh95.github.io)
+> [![이미지](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none)](https://leejh95.github.io)
 
 ### 이미지 사이즈(Image Size)
 
 이미지 사이즈를 조절할 수 있습니다.
 
 ```markdown
-<img src="https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="이미지"></img>
+<img src="https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="이미지"></img>
 ```
 
 > #### Result ⬇️
 > ---
-> <img src="https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="이미지"></img>
+> <img src="https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="이미지"></img>
 
 ## 강조(Emphasis)
 ---

@@ -6,7 +6,7 @@ tags: [markdown, github, github pages, jekyll, chirpy theme] ## Only lowercase
 math: true
 mermaid: true
 image:
-  path: https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/devices-mockup.png?Web=1
+  path: https://dsm01pap003files.storage.live.com/y4mVSSQrlm7vHxrb3SmE5lIZa8AZRxZWq0dGQ8SV-UAxbEA_qyAqsZh90fbTk3IQQGC6keNCpQ6uM0DXypNBATJyfaHeYtyjbEbXVjHXr4BAkERXCN5RAqoGzP1ag8FrphVYez9XS1Wh6y1uMqODPEMZ4WsD6eQwvgRDjxmcix2DTGSk5yDGPdo9GajGdy6auSs?width=1792&height=1120&cropmode=none
   alt: Responsive rendering of Chirpy theme on multiple devices.
 render_with_liquid: false
 ---
@@ -130,11 +130,11 @@ _로켓 이미지_
 - 기본 (with caption)
 
 ```markdown
-![default](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: width="972" height="589" }
+![default](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: width="972" height="589" }
 _This is a sample image_
 ```
 
-![default](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: width="972" height="589" }
+![default](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: width="972" height="589" }
 _This is a sample image_
 
 <br>
@@ -142,11 +142,11 @@ _This is a sample image_
 - 그림자
 
 ```markdown
-![shadow](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: .shadow width="1548" height="864" .w-75 }
+![shadow](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: .shadow width="1548" height="864" .w-75 }
 _shadow effect_
 ```
 
-![shadow](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: .shadow width="1548" height="864" .w-75 }
+![shadow](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: .shadow width="1548" height="864" .w-75 }
 _shadow effect_
 
 <br>
@@ -154,21 +154,21 @@ _shadow effect_
 - 왼쪽 정렬
 
 ```markdown
-![left align](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: width="972" height="589" .w-75 .normal}
+![left align](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: width="972" height="589" .w-75 .normal}
 ```
 
-![left align](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: width="972" height="589" .w-75 .normal}
+![left align](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: width="972" height="589" .w-75 .normal}
 
 <br>
 
 - 왼쪽에 Float 하기
 
 ```markdown
-![left float](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: width="972" height="589" .w-50 .left}
+![left float](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: width="972" height="589" .w-50 .left}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum. Phasellus a tortor aliquam, tristique felis sit amet, elementum enim. Integer vestibulum vitae nulla nec pretium.
 ```
 
-![left float](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: width="972" height="589" .w-50 .left}
+![left float](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: width="972" height="589" .w-50 .left}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum. Phasellus a tortor aliquam, tristique felis sit amet, elementum enim. Integer vestibulum vitae nulla nec pretium.
 
 <br>
@@ -176,11 +176,11 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 - 오른쪽에 Float 하기
 
 ```markdown
-![right float](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: width="972" height="589" .w-50 .right}
+![right float](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: width="972" height="589" .w-50 .right}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum. Phasellus a tortor aliquam, tristique felis sit amet, elementum enim. Integer vestibulum vitae nulla nec pretium.
 ```
 
-![right float](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/sample.png?Web=1){: width="972" height="589" .w-50 .right}
+![right float](https://dsm01pap003files.storage.live.com/y4m2OiDUZtr0KKw9WWIJWnatSNbakqF28mHzbQ4zjg6RVNgnswcm9g89SLflqdwDMWAbRFAilaAlT55zPbLn2uioLh31UXgUkNSWuY25upgjPBQj1EYME3FVnVsrA1SMhwCSf2BLZ2dkOTJphOQdnC0OLOvJz823WboNfNbhWjLYvTCKxd06Rj-d6IBNMTV5V8s?width=258&height=195&cropmode=none){: width="972" height="589" .w-50 .right}
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum. Phasellus a tortor aliquam, tristique felis sit amet, elementum enim. Integer vestibulum vitae nulla nec pretium.
 
 ## Mermaid SVG

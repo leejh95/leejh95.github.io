@@ -16,7 +16,7 @@ tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos] ## Onl
 ---
 Github Pages라는 호스팅 서비스가 있습니다.
 
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-07%20%ec%98%a4%ec%a0%84%2010.50.06.png?Web=1)
+![image](https://dsm01pap003files.storage.live.com/y4mo1RqjS5W8VnLm7lMmUy6eKrnKVa0OkPGjPDHDTEYd_flY-2kpABlc0u6-MfSyLmyQFwy1bkXd_57TMHDLEPIjjDA8N4Paw1cmQXF49l1H9E3FH21UXoFpGcVMXyiNWKaAwFZx8PO9fOdE0kWUMDpWs0B2ku5sYHGILRqBMRdOYvwntk7uEa1bM5mKRKLl4Sj?width=1860&height=1146&cropmode=none)
 
 > [Github Pages](https://pages.github.com/) _당신과 당신의 프로젝트를 위한 웹사이트. GitHub 저장소 에서 직접 호스팅됩니다. 수정하고 푸시하면 변경 사항이 적용됩니다._
 

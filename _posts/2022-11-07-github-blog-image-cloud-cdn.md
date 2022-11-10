@@ -66,9 +66,7 @@ Github 블로그를 운영하다 보면, 이미지를 포함한 자료들을 저
 ---
 일단 클라우드 저장소를 골라야 합니다. 저는 Google Drive와 OneDrive를 추천합니다. 둘 다 무료로 사용할 수 있고, 용량도 많이 제공해줍니다. (Google Drive는 15기가, OneDrive는 5기가) 둘 다 무료니까 두개 다 쓰는 것도 나쁘진 않을 것 같네요.
 
-저는 OneDrive를 사용하겠습니다. 기본 무료 용량이 5기가지만 학생 계정이 있다면 1TB까지 무료로 사용할 수 있다고 하네요!!😄 1TB면 충분하고도 남을 것 같습니다.
-
-학생 계정은 다니시던 대학교 이메일이 있으면 바로 가입할 수 있습니다. Ms Office 365를 받으시면 되요.
+저는 구글 드라이브를 이미 다른 용도로 쓰고있어서 OneDrive를 사용하겠습니다.
 
 ### 클라우드 저장소에 이미지 업로드 및 사용방법
 ---
@@ -76,23 +74,34 @@ Github 블로그를 운영하다 보면, 이미지를 포함한 자료들을 저
 
 저는 OneDrive를 사용하니 OneDrive를 기준으로 설명하겠습니다.
 
+> MS 오피스 365 또는 OneDrive For Business를 사용하시는 분들은 아래에서 설명하는 방법을 사용하실 수 없습니다. (2022-11-10 기준) 구글 드라이브를 사용해 주세요.
+{: .prompt-warning}
+
 #### OneDrive에 접속합니다.
 
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-08%20%ec%98%a4%ed%9b%84%204.21.14.png?Web=1)
+![image](https://dsm01pap003files.storage.live.com/y4mCoUEG9-EYmpXYBqicron2RcoE6fU5WbnurYfW3PqQgKi5k0dHj_Q3ouCBHC3YkodNq10r35hNughrJU9IP8b2woqmYScEesWp07Zh5fma7DSXvRni7_qEbdSbPxBqiieT_IuAuKAIPiqOSnFeRhZBmzSj_dg1XB7D6oF08DJfapGfA8v05WJDG3969YLOzzb?width=993&height=684&cropmode=none)
 _macOS에서 OneDrive를 접속한 화면입니다._
 
 #### OneDrive에 이미지를 업로드합니다.
 저는 다음과 같이 `githubblog` 라는 폴더를 만들어서 그 안에 넣고싶은 이미지를 전부 업로드했습니다.
 
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-08%20%ec%98%a4%ed%9b%84%204.24.58.png?Web=1)
+![image](https://dsm01pap003files.storage.live.com/y4mVX1qpYOZZFaFQPDKmrMl0ltxlCEC-B4g4XzrRyA38FXwbU86KPqnz8jBjCdTpJLJ6-g-VW8t23nONWB0kIIwI4uuEhbsUyAqrsA7Wsq-jUnjd2-Gk2QmTPH6g50oYyQvfIed_Sp8FuxcX2bXXNY430cyD-fzgdhoJ4vOzhFE1ew_dNJFh_a9zbLZKvF6AqOb?width=1015&height=684&cropmode=none)
 
 #### 이미지를 온라인으로 열어줍니다.
 
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-08%20%ec%98%a4%ed%9b%84%204.26.16.png?Web=1)
+![image](https://dsm01pap003files.storage.live.com/y4msRBVrQnXcTFrnqFJvhl9INEHB1HkS5ZdB4VDwagrr75yDhETKUJUrbPCvLOapEV7gtn9cdMZYGSrwrxFZvlXR16lN1G9UkgHjR6cPZw4pwXTMfUa5FE_E9TtprO68s9CkRml6pN698wqBbGZmkc4I0WPVv_CXUPjFr_4pv4naoaXB4--8aiBUWxtuTXuYzVt?width=1888&height=1614&cropmode=none)
 
-#### 주소창에 있는 주소를 복사합니다.
+#### 메뉴에서 embed(임베드)를 눌러줍니다.
 
-![image](https://olphschool-my.sharepoint.com/personal/d16571_365v_me/Documents/githubblog/images/ScreenShot%202022-11-08%20%ec%98%a4%ed%9b%84%204.28.31.png?Web=1)
+![image](https://dsm01pap003files.storage.live.com/y4moT6QQeb1wsvFAh3RTPektfubCyH-yk4ut4cjWa__vX83e8SBxi3ZFwhrsj2cgjJCFpDSRuX6Gz-J_e1wNnzUF8zEs85zH3cE1oSFdD0R7AUNZ35facFy-5SErq_tbgXpj0WX1PXQpI-YybXTE_qC3Iw7SvkP06FHoG8awKqF_r_UpCwh1VVPGizkHOk8wrxe?width=1960&height=1164&cropmode=none)
+
+#### Generate(생성) 버튼을 눌러주세요
+
+![image](https://dsm01pap003files.storage.live.com/y4mdslIj2EII5xpQ9aTgdcXvTwFD9jVAiu5CwNo0DhjpknNTt_blWon4OSsZzs5SN6xP3E0z6mjlSHN6cE9hhmMcgP1RlIJ6xOkZlwN5I16oDW7LJ8s-azP1nrBDmUsq7Ag2pvg0mVmwClEuZTglS8YCV5hfA5zyEwQSROB-xK33KJxSqMh24oad8RbxvJL_woq?width=1998&height=1254&cropmode=none)
+
+#### 생성된 URL을 복사해주세요
+
+![image](https://dsm01pap003files.storage.live.com/y4mwbWZK8luEMtNWQm-wIlYOlPmGMa20iHfrvkp3QpAiyxJKcJ16u2csXjcBttYdgKmfqAPNPkwmo95Qm0_2DYmnElUhSG2u5cUFvhz9LzcWhLG4GkJ2g06ogoETUgou504FwLss7Gtq-YnihLhBznM2IKVk2RjRB-XMUUrJPN3RTBe5kDatrHP3MHntCx1u4yG?width=1884&height=1570&cropmode=none)
 
 이제 복사한 주소를 블로그에 사용하면 됩니다. 쉽죠???😊
 
