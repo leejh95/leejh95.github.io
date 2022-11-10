@@ -63,7 +63,7 @@ Front Matter를 작성할 때마다 매번 수동으로 써 넣어야 하는 불
 이제 스니펫을 사용해보겠습니다.
 
 `.md` 파일에서 `fm` 또는 `frontmatter` 를 입력하고 `Ctrl` \+ `Space` 키를 눌러보세요.  
-![image](https://dsm01pap003files.storage.live.com/y4m9RyUo1-4cymBLiukS4kwP4tK-YohZRq3p0T3W7iVIOJIcPVOJ-OUikncMB9ocTaIzLrcvo42YsQs5PcGAr82DV9TVIPkBoHsc94qx4R3DStYda-9Mps0KuqoRCNs6Fd_jnNQKtaVRvGtsu56cFVFjcPLWZhq3Ti5BtUtBNfyFM7aj9FdoHUZNiKfyWeyNw9X?width=600&height=252&cropmode=none)
+![image](http://drive.google.com/uc?export=view&id=12FmSpHyKNbDXACPxl80xJRMFa9z6lq6Q)
 _예시 이미지입니다._
 
 나머지 부분을 입력하고 `tab`키를 눌러서 다음 변수로 이동하면서 입력하면 됩니다.
