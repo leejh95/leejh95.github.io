@@ -1,6 +1,6 @@
 ---
 date: 2022-11-11 15:32:43 +0900
-title: Github 블로그에 댓글 기능 추가하기
+title: Github 블로그에 Giscus로 댓글 기능 추가하기
 categories: [Tutorial, Github Blog]
 tags: [git, ruby, jekyll, github pages, github blog, chirpy theme, macos, giscus] ## Only lowercase
 ---
